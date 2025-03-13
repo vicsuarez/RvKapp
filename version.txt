@@ -1,0 +1,16 @@
+RVK App Version 1.0
+Release Date: March 13, 2025
+
+Features:
+- Home page with search functionality and valuable cards display
+- News page with featured and latest news
+- Scan page with camera functionality
+- Cart page with item management
+- Profile page with user information and stats
+- Bottom navigation with Home, News, Scan, Cart, and Profile tabs
+- Status bar with proper text visibility on all screens
+- SafeAreaView implementation for proper layout on all devices
+
+Backup files:
+- RVKapp_v1.0_20250313_020811.zip (Main app code)
+- RVKapp_config_v1.0_20250313_020839.zip (Configuration files) 
